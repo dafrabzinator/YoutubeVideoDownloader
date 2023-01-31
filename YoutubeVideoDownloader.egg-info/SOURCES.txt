@@ -1,0 +1,10 @@
+README.md
+setup.py
+YoutubeVideoDownloader.egg-info/PKG-INFO
+YoutubeVideoDownloader.egg-info/SOURCES.txt
+YoutubeVideoDownloader.egg-info/dependency_links.txt
+YoutubeVideoDownloader.egg-info/requires.txt
+YoutubeVideoDownloader.egg-info/top_level.txt
+youtubedownloader/Gui.py
+youtubedownloader/__init__.py
+youtubedownloader/frabsco.py
